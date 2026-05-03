@@ -275,7 +275,7 @@ body {
     margin-bottom: 5px;
 }
 
-.form-group input,
+.form-group input:not([type="checkbox"]),
 .form-group select {
     width: 100%;
     padding: 10px 12px;
@@ -287,7 +287,7 @@ body {
     background: #fafafa;
 }
 
-.form-group input:focus,
+.form-group input:not([type="checkbox"]):focus,
 .form-group select:focus {
     outline: none;
     border-color: #2d6a9f;
