@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hostel Allocation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    {% if login_only %}
+
+    <!-- ===== LOGIN PAGE ===== -->
+    <div class="login-wrapper">
+        <div class="login-card">
+            <div class="login-icon">🏠</div>
+            <h2>Hostel Allocation</h2>
+            <p class="login-sub">Warden Login to continue</p>
+
+            {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            {% for msg in messages %}
+            <div class="flash-msg">{{ msg }}</div>
+            {% endfor %}
+            {% endif %}
+            {% endwith %}
+
+            <form method="POST" action="/login">
+                <input type="text" name="warden_id" placeholder="Warden ID" required>
+                <input type="password" name="password" placeholder="Password" required>
+                <button type="submit">Login →</button>
+            </form>
+        </div>
+    </div>
+
+    {% else %}
+
+    <!-- ===== HEADER ===== -->
+    <div class="header">
+        <h1>🏠 Hostel Allocation <span>| Warden Panel</span></h1>
+        <form method="POST" action="/logout" style="margin:0;">
+            <button type="submit" class="logout-btn">Logout</button>
+        </form>
+    </div>
+
+    <!-- ===== NAVIGATION ===== -->
+    <div class="nav">
+        <a href="/?section=dashboard" class="{{ 'active' if active_section == 'dashboard' }}">📊 Dashboard</a>
+        <a href="/?section=students" class="{{ 'active' if active_section == 'students' }}">🎓 Students</a>
+        <a href="/?section=rooms" class="{{ 'active' if active_section == 'rooms' }}">🚪 Rooms</a>
+        <a href="/?section=engine" class="{{ 'active' if active_section == 'engine' }}">⚙️ Engine</a>
+    </div>
+
+    <div class="container">
+
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        {% for msg in messages %}
+        <div class="flash-msg">{{ msg }}</div>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+
+        <!-- ===== DASHBOARD ===== -->
+        {% if active_section == "dashboard" %}
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-icon">🎓</div>
+                <div class="stat-number">{{ stats.students }}</div>
+                <div class="stat-label">Total Students</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">🚪</div>
+                <div class="stat-number">{{ stats.rooms }}</div>
+                <div class="stat-label">Total Rooms</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">✅</div>
+                <div class="stat-number">{{ stats.allocated }}</div>
+                <div class="stat-label">Allocated</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">⏳</div>
+                <div class="stat-number">{{ stats.waiting }}</div>
+                <div class="stat-label">Waiting</div>
+            </div>
+        </div>
+        {% endif %}
+
+        <!-- ===== STUDENTS ===== -->
+        {% if active_section == "students" %}
+        <div class="card">
+            <h2>🎓 Add Student</h2>
+            <form method="POST" action="/students">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Student ID</label>
+                        <input type="text" name="id" placeholder="e.g. S101" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Full Name</label>
+                        <input type="text" name="name" placeholder="e.g. Rahul Sharma" required>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Year</label>
+                        <input type="number" name="year" placeholder="e.g. 1" min="1" max="4" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Gender</label>
+                        <select name="gender">
+                            <option>Male</option>
+                            <option>Female</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>CGPA</label>
+                        <input type="text" name="cgpa" placeholder="e.g. 8.5">
+                    </div>
+                    <div class="form-group">
+                        <label>Payment Date</label>
+                        <input type="date" name="payment_date">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Room Preferences</label>
+                    <div class="checkbox-group">
+                        {% for room in room_types %}
+                        <label>
+                            <input type="checkbox" name="pref_{{ room }}">
+                            {{ room }}
+                        </label>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <button type="submit" class="btn-submit">+ Add Student</button>
+            </form>
+        </div>
+        {% endif %}
+
+        <!-- ===== ROOMS ===== -->
+        {% if active_section == "rooms" %}
+        <div class="card">
+            <h2>🚪 Add Room</h2>
+            <form method="POST" action="/rooms">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Room ID</label>
+                        <input type="text" name="id" placeholder="e.g. R201" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Room Type</label>
+                        <select name="type">
+                            {% for room in room_types %}
+                            <option>{{ room }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Year Group</label>
+                        <select name="year_group">
+                            {% for group in year_groups %}
+                            <option>{{ group }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Capacity</label>
+                        <input type="number" name="capacity" placeholder="e.g. 2" min="1" required>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn-submit">+ Add Room</button>
+            </form>
+        </div>
+
+        <div class="card">
+            <h2>📋 Room List</h2>
+            {% if data.rooms %}
+            <table class="room-table">
+                <thead>
+                    <tr>
+                        <th>Room ID</th>
+                        <th>Type</th>
+                        <th>Occupancy</th>
+                        <th>Gender</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for room in data.rooms %}
+                    <tr>
+                        <td><strong>{{ room.id }}</strong></td>
+                        <td><span class="badge badge-blue">{{ room.type }}</span></td>
+                        <td>{{ room.occupied }} / {{ room.capacity }}</td>
+                        <td>{{ room.gender if room.gender else '—' }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% else %}
+            <div class="empty-state">
+                <div class="empty-icon">📭</div>
+                <p>No rooms added yet</p>
+            </div>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        <!-- ===== ENGINE ===== -->
+        {% if active_section == "engine" %}
+        <div class="card">
+            <h2>⚙️ Allocation Engine</h2>
+            <p style="color:#666; font-size:0.9rem; margin-bottom:18px;">
+                Run the allocation algorithm to assign students to rooms based on their preferences, year, and CGPA.
+            </p>
+            <div class="engine-actions">
+                <form method="POST" action="/allocate" style="margin:0;">
+                    <button type="submit" class="btn-run">▶️ Run Allocation</button>
+                </form>
+                <a href="/export" class="btn-export">📥 Download Report</a>
+            </div>
+        </div>
+        {% endif %}
+
+        {% endif %}
+
+    </div>
+
+</body>
+
+</html>

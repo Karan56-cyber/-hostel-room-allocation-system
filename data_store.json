@@ -1,0 +1,3034 @@
+{
+  "students": [
+    {
+      "id": "S1000",
+      "name": "Aarav 1",
+      "year": 4,
+      "gender": "Male",
+      "cgpa": 8.66,
+      "payment_date": null,
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776064275614
+    },
+    {
+      "id": "S1001",
+      "name": "Aditi 2",
+      "year": 3,
+      "gender": "Female",
+      "cgpa": 7.45,
+      "payment_date": null,
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776064275615
+    },
+    {
+      "id": "S1002",
+      "name": "Bhavesh 3",
+      "year": 3,
+      "gender": "Male",
+      "cgpa": 9.93,
+      "payment_date": null,
+      "prefs": [
+        "Double AC"
+      ],
+      "timestamp": 1776064275616
+    },
+    {
+      "id": "S1003",
+      "name": "Diya 4",
+      "year": 3,
+      "gender": "Female",
+      "cgpa": 6.3,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275617
+    },
+    {
+      "id": "S1004",
+      "name": "Eshan 5",
+      "year": 3,
+      "gender": "Male",
+      "cgpa": 8.9,
+      "payment_date": null,
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776064275618
+    },
+    {
+      "id": "S1005",
+      "name": "Farah 6",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 6.31,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275619
+    },
+    {
+      "id": "S1006",
+      "name": "Gaurav 7",
+      "year": 4,
+      "gender": "Male",
+      "cgpa": 9.9,
+      "payment_date": null,
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776064275620
+    },
+    {
+      "id": "S1007",
+      "name": "Harshita 8",
+      "year": 1,
+      "gender": "Female",
+      "cgpa": 0,
+      "payment_date": "2026-07-25",
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776064275621
+    },
+    {
+      "id": "S1008",
+      "name": "Ishaan 9",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-12-10",
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776064275622
+    },
+    {
+      "id": "S1009",
+      "name": "Jiya 10",
+      "year": 4,
+      "gender": "Female",
+      "cgpa": 7.81,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275623
+    },
+    {
+      "id": "S1011",
+      "name": "Lavanya 12",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 7.68,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275625
+    },
+    {
+      "id": "S1012",
+      "name": "Mohit 13",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-07-15",
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275626
+    },
+    {
+      "id": "S1013",
+      "name": "Naina 14",
+      "year": 1,
+      "gender": "Female",
+      "cgpa": 0,
+      "payment_date": "2026-12-18",
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275627
+    },
+    {
+      "id": "S1014",
+      "name": "Om 15",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-07-03",
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776064275628
+    },
+    {
+      "id": "S1015",
+      "name": "Pallavi 16",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 8.71,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275629
+    },
+    {
+      "id": "S1016",
+      "name": "Raghav 17",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-11-21",
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776064275630
+    },
+    {
+      "id": "S1017",
+      "name": "Siya 18",
+      "year": 3,
+      "gender": "Female",
+      "cgpa": 9.69,
+      "payment_date": null,
+      "prefs": [
+        "Double AC"
+      ],
+      "timestamp": 1776064275631
+    },
+    {
+      "id": "S1018",
+      "name": "Tanish 19",
+      "year": 3,
+      "gender": "Male",
+      "cgpa": 8.52,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275632
+    },
+    {
+      "id": "S1019",
+      "name": "Vani 20",
+      "year": 4,
+      "gender": "Female",
+      "cgpa": 7.23,
+      "payment_date": null,
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776064275633
+    },
+    {
+      "id": "123123",
+      "name": "ashu",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-04-13",
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776064350655
+    },
+    {
+      "id": "123321",
+      "name": "Ayush",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-04-13",
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776064369174
+    },
+    {
+      "id": "789",
+      "name": "Khushi Choudhary",
+      "year": 4,
+      "gender": "Female",
+      "cgpa": 9.0,
+      "payment_date": null,
+      "prefs": [
+        "Single AC",
+        "Double AC"
+      ],
+      "timestamp": 1776064832860
+    },
+    {
+      "id": "8279310004",
+      "name": "John",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-04-13",
+      "prefs": [
+        "Double AC"
+      ],
+      "timestamp": 1776065002597
+    },
+    {
+      "id": "S1020",
+      "name": "Aarav 1",
+      "year": 2,
+      "gender": "Male",
+      "cgpa": 7.53,
+      "payment_date": null,
+      "prefs": [
+        "Double AC"
+      ],
+      "timestamp": 1776065904396
+    },
+    {
+      "id": "S1021",
+      "name": "Aditi 2",
+      "year": 4,
+      "gender": "Female",
+      "cgpa": 9.93,
+      "payment_date": null,
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776065904397
+    },
+    {
+      "id": "S1022",
+      "name": "Bhavesh 3",
+      "year": 4,
+      "gender": "Male",
+      "cgpa": 7.41,
+      "payment_date": null,
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776065904398
+    },
+    {
+      "id": "S1023",
+      "name": "Diya 4",
+      "year": 4,
+      "gender": "Female",
+      "cgpa": 9.69,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776065904399
+    },
+    {
+      "id": "S1024",
+      "name": "Eshan 5",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-04-15",
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776065904400
+    },
+    {
+      "id": "S1025",
+      "name": "Farah 6",
+      "year": 4,
+      "gender": "Female",
+      "cgpa": 7.53,
+      "payment_date": null,
+      "prefs": [
+        "Double AC"
+      ],
+      "timestamp": 1776065904401
+    },
+    {
+      "id": "S1026",
+      "name": "Gaurav 7",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-09-03",
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776065904402
+    },
+    {
+      "id": "S1027",
+      "name": "Harshita 8",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 7.46,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776065904403
+    },
+    {
+      "id": "S1028",
+      "name": "Ishaan 9",
+      "year": 3,
+      "gender": "Male",
+      "cgpa": 9.51,
+      "payment_date": null,
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776065904404
+    },
+    {
+      "id": "S1029",
+      "name": "Jiya 10",
+      "year": 4,
+      "gender": "Female",
+      "cgpa": 9.95,
+      "payment_date": null,
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776065904405
+    },
+    {
+      "id": "S1030",
+      "name": "Kabir 11",
+      "year": 3,
+      "gender": "Male",
+      "cgpa": 9.37,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776065904406
+    },
+    {
+      "id": "S1031",
+      "name": "Lavanya 12",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 8.4,
+      "payment_date": null,
+      "prefs": [
+        "Double AC"
+      ],
+      "timestamp": 1776065904407
+    },
+    {
+      "id": "S1032",
+      "name": "Mohit 13",
+      "year": 4,
+      "gender": "Male",
+      "cgpa": 7.79,
+      "payment_date": null,
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776065904408
+    },
+    {
+      "id": "S1033",
+      "name": "Naina 14",
+      "year": 1,
+      "gender": "Female",
+      "cgpa": 0,
+      "payment_date": "2026-01-11",
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776065904409
+    },
+    {
+      "id": "S1034",
+      "name": "Om 15",
+      "year": 2,
+      "gender": "Male",
+      "cgpa": 9.18,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776065904410
+    },
+    {
+      "id": "S1035",
+      "name": "Pallavi 16",
+      "year": 1,
+      "gender": "Female",
+      "cgpa": 0,
+      "payment_date": "2026-02-27",
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776065904411
+    },
+    {
+      "id": "S1036",
+      "name": "Raghav 17",
+      "year": 2,
+      "gender": "Male",
+      "cgpa": 7.39,
+      "payment_date": null,
+      "prefs": [
+        "Double AC"
+      ],
+      "timestamp": 1776065904412
+    },
+    {
+      "id": "S1037",
+      "name": "Siya 18",
+      "year": 3,
+      "gender": "Female",
+      "cgpa": 9.74,
+      "payment_date": null,
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776065904413
+    },
+    {
+      "id": "S1038",
+      "name": "Tanish 19",
+      "year": 4,
+      "gender": "Male",
+      "cgpa": 9.12,
+      "payment_date": null,
+      "prefs": [
+        "Single Non-AC"
+      ],
+      "timestamp": 1776065904414
+    },
+    {
+      "id": "S1039",
+      "name": "Vani 20",
+      "year": 4,
+      "gender": "Female",
+      "cgpa": 7.06,
+      "payment_date": null,
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1776065904415
+    },
+    {
+      "id": "1",
+      "name": "1",
+      "year": 1,
+      "gender": "Male",
+      "cgpa": 0,
+      "payment_date": "2026-05-14",
+      "prefs": [
+        "Single AC"
+      ],
+      "timestamp": 1777817811624
+    }
+  ],
+  "rooms": [
+    {
+      "id": "R100",
+      "type": "Single AC",
+      "yearGroup": "Freshman",
+      "capacity": 2,
+      "occupied": 2,
+      "residents": [
+        "Om 15",
+        "Raghav 17"
+      ],
+      "resident_ids": [
+        "123123",
+        "123321"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R101",
+      "type": "Single Non-AC",
+      "yearGroup": "Freshman",
+      "capacity": 2,
+      "occupied": 2,
+      "residents": [
+        "Harshita 8",
+        "Naina 14"
+      ],
+      "resident_ids": [
+        "S1033",
+        "S1007"
+      ],
+      "gender": "Female"
+    },
+    {
+      "id": "R102",
+      "type": "Double AC",
+      "yearGroup": "Freshman",
+      "capacity": 1,
+      "occupied": 1,
+      "residents": [
+        "John"
+      ],
+      "resident_ids": [
+        "8279310004"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R103",
+      "type": "Double Non-AC",
+      "yearGroup": "Freshman",
+      "capacity": 3,
+      "occupied": 2,
+      "residents": [
+        "Mohit 13",
+        "Gaurav 7"
+      ],
+      "resident_ids": [
+        "S1035",
+        "S1013"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R104",
+      "type": "Single AC",
+      "yearGroup": "Senior",
+      "capacity": 2,
+      "occupied": 2,
+      "residents": [
+        "Vani 20",
+        "Khushi Choudhary"
+      ],
+      "resident_ids": [
+        "S1021",
+        "789"
+      ],
+      "gender": "Female"
+    },
+    {
+      "id": "R105",
+      "type": "Single Non-AC",
+      "yearGroup": "Senior",
+      "capacity": 1,
+      "occupied": 1,
+      "residents": [
+        "Vani 20"
+      ],
+      "resident_ids": [
+        "S1029"
+      ],
+      "gender": "Female"
+    },
+    {
+      "id": "R106",
+      "type": "Double AC",
+      "yearGroup": "Senior",
+      "capacity": 3,
+      "occupied": 3,
+      "residents": [
+        "Farah 6",
+        "Siya 18",
+        "Lavanya 12"
+      ],
+      "resident_ids": [
+        "S1025",
+        "S1017",
+        "S1031"
+      ],
+      "gender": "Female"
+    },
+    {
+      "id": "R107",
+      "type": "Double Non-AC",
+      "yearGroup": "Senior",
+      "capacity": 3,
+      "occupied": 3,
+      "residents": [
+        "Jiya 10",
+        "Diya 4",
+        "Diya 4"
+      ],
+      "resident_ids": [
+        "S1023",
+        "S1009",
+        "S1003"
+      ],
+      "gender": "Female"
+    },
+    {
+      "id": "R108",
+      "type": "Single AC",
+      "yearGroup": "Senior",
+      "capacity": 3,
+      "occupied": 2,
+      "residents": [
+        "Aarav 1",
+        "Gaurav 7"
+      ],
+      "resident_ids": [
+        "S1006",
+        "S1000"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R109",
+      "type": "Single Non-AC",
+      "yearGroup": "Senior",
+      "capacity": 3,
+      "occupied": 3,
+      "residents": [
+        "Bhavesh 3",
+        "Mohit 13",
+        "Tanish 19"
+      ],
+      "resident_ids": [
+        "S1038",
+        "S1032",
+        "S1022"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "fg 2",
+      "type": "Single AC",
+      "yearGroup": "Freshman",
+      "capacity": 2,
+      "occupied": 2,
+      "residents": [
+        "ashu",
+        "Ayush"
+      ],
+      "resident_ids": [
+        "1",
+        "S1014"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "9080",
+      "type": "Double AC",
+      "yearGroup": "Senior",
+      "capacity": 1,
+      "occupied": 1,
+      "residents": [
+        "Bhavesh 3"
+      ],
+      "resident_ids": [
+        "S1002"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R110",
+      "type": "Single AC",
+      "yearGroup": "Freshman",
+      "capacity": 1,
+      "occupied": 1,
+      "residents": [
+        "1"
+      ],
+      "resident_ids": [
+        "S1016"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R111",
+      "type": "Single Non-AC",
+      "yearGroup": "Freshman",
+      "capacity": 1,
+      "occupied": 1,
+      "residents": [
+        "Ishaan 9"
+      ],
+      "resident_ids": [
+        "S1024"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R112",
+      "type": "Double AC",
+      "yearGroup": "Freshman",
+      "capacity": 3,
+      "occupied": 0,
+      "residents": [],
+      "resident_ids": [],
+      "gender": null
+    },
+    {
+      "id": "R113",
+      "type": "Double Non-AC",
+      "yearGroup": "Freshman",
+      "capacity": 1,
+      "occupied": 1,
+      "residents": [
+        "Naina 14"
+      ],
+      "resident_ids": [
+        "S1012"
+      ],
+      "gender": "Female"
+    },
+    {
+      "id": "R114",
+      "type": "Single AC",
+      "yearGroup": "Senior",
+      "capacity": 3,
+      "occupied": 3,
+      "residents": [
+        "Aditi 2",
+        "Aditi 2",
+        "Siya 18"
+      ],
+      "resident_ids": [
+        "S1039",
+        "S1037",
+        "S1001"
+      ],
+      "gender": "Female"
+    },
+    {
+      "id": "R115",
+      "type": "Single Non-AC",
+      "yearGroup": "Senior",
+      "capacity": 2,
+      "occupied": 1,
+      "residents": [
+        "Jiya 10"
+      ],
+      "resident_ids": [
+        "S1019"
+      ],
+      "gender": "Female"
+    },
+    {
+      "id": "R116",
+      "type": "Double AC",
+      "yearGroup": "Senior",
+      "capacity": 3,
+      "occupied": 2,
+      "residents": [
+        "Raghav 17",
+        "Aarav 1"
+      ],
+      "resident_ids": [
+        "S1020",
+        "S1036"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R117",
+      "type": "Double Non-AC",
+      "yearGroup": "Senior",
+      "capacity": 3,
+      "occupied": 3,
+      "residents": [
+        "Tanish 19",
+        "Kabir 11",
+        "Om 15"
+      ],
+      "resident_ids": [
+        "S1030",
+        "S1018",
+        "S1034"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "R118",
+      "type": "Single AC",
+      "yearGroup": "Senior",
+      "capacity": 3,
+      "occupied": 0,
+      "residents": [],
+      "resident_ids": [],
+      "gender": null
+    },
+    {
+      "id": "R119",
+      "type": "Single Non-AC",
+      "yearGroup": "Senior",
+      "capacity": 2,
+      "occupied": 2,
+      "residents": [
+        "Eshan 5",
+        "Ishaan 9"
+      ],
+      "resident_ids": [
+        "S1028",
+        "S1004"
+      ],
+      "gender": "Male"
+    },
+    {
+      "id": "r123",
+      "type": "Single Non-AC",
+      "yearGroup": "Freshman",
+      "capacity": 3,
+      "occupied": 1,
+      "residents": [
+        "Eshan 5"
+      ],
+      "resident_ids": [
+        "S1008"
+      ],
+      "gender": "Male"
+    }
+  ],
+  "waiting": [
+    {
+      "id": "S1005",
+      "name": "Farah 6",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 6.31,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275619
+    },
+    {
+      "id": "S1027",
+      "name": "Harshita 8",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 7.46,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776065904403
+    },
+    {
+      "id": "S1011",
+      "name": "Lavanya 12",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 7.68,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275625
+    },
+    {
+      "id": "S1015",
+      "name": "Pallavi 16",
+      "year": 2,
+      "gender": "Female",
+      "cgpa": 8.71,
+      "payment_date": null,
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776064275629
+    },
+    {
+      "id": "S1035",
+      "name": "Pallavi 16",
+      "year": 1,
+      "gender": "Female",
+      "cgpa": 0,
+      "payment_date": "2026-02-27",
+      "prefs": [
+        "Double Non-AC"
+      ],
+      "timestamp": 1776065904411
+    }
+  ],
+  "logs": [
+    {
+      "time": "19:57",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Naina 14 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Ishaan 9 to r123 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Raghav 17 to R110 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Gaurav 7 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Mohit 13 to R113 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned 1 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Eshan 5 to R111 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned John to R102 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Pallavi 16 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Naina 14 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Raghav 17 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Harshita 8 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Aarav 1 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Lavanya 12 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Pallavi 16 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Om 15 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Aditi 2 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Tanish 19 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Eshan 5 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Kabir 11 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Ishaan 9 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Siya 18 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Siya 18 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Bhavesh 3 to 9080 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Vani 20 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Vani 20 to R115 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Bhavesh 3 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Farah 6 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Mohit 13 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Aarav 1 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Khushi Choudhary to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Tanish 19 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Gaurav 7 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Aditi 2 to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Assigned Jiya 10 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:57",
+      "message": "Added room r123.",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Naina 14 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Raghav 17 to R110 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Gaurav 7 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Mohit 13 to R113 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned 1 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Eshan 5 to R111 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned John to R102 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Pallavi 16 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Naina 14 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Raghav 17 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Harshita 8 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Aarav 1 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Lavanya 12 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Pallavi 16 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Om 15 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Aditi 2 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Tanish 19 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Eshan 5 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Kabir 11 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Ishaan 9 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Siya 18 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Siya 18 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Bhavesh 3 to 9080 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Vani 20 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Vani 20 to R115 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Bhavesh 3 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Farah 6 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Mohit 13 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Aarav 1 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Khushi Choudhary to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Tanish 19 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Gaurav 7 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Aditi 2 to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:56",
+      "message": "Assigned Jiya 10 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Naina 14 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Raghav 17 to R110 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Gaurav 7 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Mohit 13 to R113 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned 1 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Eshan 5 to R111 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned John to R102 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Pallavi 16 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Naina 14 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Raghav 17 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Harshita 8 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Aarav 1 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Lavanya 12 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Pallavi 16 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Om 15 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Aditi 2 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Tanish 19 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Eshan 5 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Kabir 11 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Ishaan 9 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Siya 18 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Siya 18 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Bhavesh 3 to 9080 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Vani 20 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Vani 20 to R115 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Bhavesh 3 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Farah 6 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Mohit 13 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Aarav 1 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Khushi Choudhary to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Tanish 19 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Gaurav 7 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Aditi 2 to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:47",
+      "message": "Assigned Jiya 10 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Registered 1 (Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Naina 14 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Raghav 17 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Gaurav 7 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Mohit 13 to R113 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Eshan 5 to R111 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned John to R102 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Pallavi 16 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Naina 14 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Raghav 17 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Harshita 8 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Aarav 1 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Lavanya 12 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Pallavi 16 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Om 15 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Aditi 2 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Tanish 19 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Eshan 5 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Kabir 11 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Ishaan 9 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Siya 18 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Siya 18 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Bhavesh 3 to 9080 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Vani 20 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Vani 20 to R115 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Bhavesh 3 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Farah 6 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Mohit 13 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Aarav 1 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Khushi Choudhary to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Tanish 19 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Gaurav 7 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Aditi 2 to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:46",
+      "message": "Assigned Jiya 10 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Naina 14 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Raghav 17 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Gaurav 7 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Mohit 13 to R113 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Eshan 5 to R111 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned John to R102 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Pallavi 16 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Naina 14 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Raghav 17 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Harshita 8 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Aarav 1 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Lavanya 12 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Pallavi 16 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Om 15 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Aditi 2 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Tanish 19 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Eshan 5 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Kabir 11 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Ishaan 9 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Siya 18 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Siya 18 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Bhavesh 3 to 9080 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Vani 20 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Vani 20 to R115 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Bhavesh 3 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Farah 6 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Mohit 13 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Aarav 1 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Khushi Choudhary to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Tanish 19 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Gaurav 7 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Aditi 2 to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "19:35",
+      "message": "Assigned Jiya 10 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Naina 14 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Raghav 17 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Gaurav 7 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Mohit 13 to R113 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Eshan 5 to R111 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned John to R102 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Pallavi 16 to R103 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Naina 14 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Raghav 17 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Harshita 8 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Aarav 1 to R116 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Lavanya 12 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Pallavi 16 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Om 15 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Aditi 2 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Tanish 19 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Eshan 5 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Kabir 11 to R117 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Ishaan 9 to R119 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Siya 18 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Siya 18 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Bhavesh 3 to 9080 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Vani 20 to R114 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Vani 20 to R115 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Bhavesh 3 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Farah 6 to R106 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Mohit 13 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Aarav 1 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Khushi Choudhary to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Tanish 19 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Gaurav 7 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Aditi 2 to R104 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Assigned Jiya 10 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "13:08",
+      "message": "Synthetic dataset appended: 20 students and 10 rooms.",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Naina 14 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:55",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Raghav 17 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Mohit 13 to R103 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned John to R102 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:55",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Pallavi 16 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Aditi 2 to R108 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Tanish 19 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Eshan 5 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Siya 18 to 9080 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Bhavesh 3 to R106 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Vani 20 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Aarav 1 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Khushi Choudhary to R108 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:55",
+      "message": "Assigned Gaurav 7 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:54",
+      "message": "Removed student S1010.",
+      "level": "info"
+    },
+    {
+      "time": "12:53",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Naina 14 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:53",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Raghav 17 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Mohit 13 to R103 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned John to R102 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:53",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Pallavi 16 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Aditi 2 to R108 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Tanish 19 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Eshan 5 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Siya 18 to 9080 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Bhavesh 3 to R106 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Kabir 11 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Vani 20 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Aarav 1 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Khushi Choudhary to R108 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Assigned Gaurav 7 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:53",
+      "message": "Registered John (Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Naina 14 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:50",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Raghav 17 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Mohit 13 to R103 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:50",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Pallavi 16 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Aditi 2 to R108 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Tanish 19 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Eshan 5 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Siya 18 to 9080 (Double AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Bhavesh 3 to R106 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Kabir 11 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Vani 20 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Aarav 1 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Khushi Choudhary to R108 (Single AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Assigned Gaurav 7 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Added room 9080.",
+      "level": "success"
+    },
+    {
+      "time": "12:50",
+      "message": "Registered Khushi Choudhary (Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Naina 14 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:42",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Raghav 17 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Mohit 13 to R103 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Om 15 to fg 2 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Ayush to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned ashu to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:42",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Pallavi 16 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Aditi 2 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:42",
+      "message": "Tanish 19 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Eshan 5 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Siya 18 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Bhavesh 3 to R106 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Kabir 11 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Vani 20 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Aarav 1 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Assigned Gaurav 7 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Registered Ayush (Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Registered ashu (Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:42",
+      "message": "Added room fg 2.",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Naina 14 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Raghav 17 to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Mohit 13 to R103 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Om 15 to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Pallavi 16 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Aditi 2 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Tanish 19 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Eshan 5 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Siya 18 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Bhavesh 3 to R106 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Kabir 11 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Vani 20 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Aarav 1 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Gaurav 7 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Greedy allocation completed.",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Naina 14 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Ishaan 9 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Raghav 17 to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Harshita 8 to R101 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Mohit 13 to R103 (Double Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Om 15 to R100 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Farah 6 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Lavanya 12 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Pallavi 16 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Diya 4 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Aditi 2 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Tanish 19 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Eshan 5 to R109 (Single Non-AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Siya 18 moved to waiting list. No compatible room was available.",
+      "level": "error"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Bhavesh 3 to R106 (Double AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Kabir 11 to R108 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Vani 20 to R105 (Single Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Jiya 10 to R107 (Double Non-AC, Female).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Aarav 1 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Assigned Gaurav 7 to R104 (Single AC, Male).",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "Synthetic dataset appended: 20 students and 10 rooms.",
+      "level": "success"
+    },
+    {
+      "time": "12:41",
+      "message": "System reset completed.",
+      "level": "success"
+    }
+  ]
+}
